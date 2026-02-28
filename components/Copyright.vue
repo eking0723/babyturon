@@ -7,7 +7,7 @@ const year = new Date().getFullYear();
 <nav>
 <a href="terms">Terms and Conditions</a>
 <span>&nbsp;|&nbsp;</span>
-<a href="privacy">Privacy Policy</a>
+<a href="policy">Privacy Policy</a>
 <span>&nbsp;|&nbsp;</span>
 <a href="support">Support</a>
 </nav>

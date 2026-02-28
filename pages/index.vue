@@ -14,10 +14,13 @@ useHead({
  {rel: 'stylesheet', href: '/reset.css'}
  ]
 });</script>
-template>
- <client-only>
+<template>
+ <ClientOnly>
 <NavBar />
  <Welcome />
+ <div>This is index page</div>
 <Copyright />
- </client-only>
+ </ClientOnly>
 </template>
+<style scoped></style>
+<style></style>

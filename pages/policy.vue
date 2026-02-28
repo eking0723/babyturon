@@ -18,6 +18,7 @@ useHead({
  <client-only>
 <NavBar />
  <Welcome />
+ <div>This is privacy page</div>
 <Copyright />
  </client-only>
 </template>
