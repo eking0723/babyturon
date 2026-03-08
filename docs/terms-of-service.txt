@@ -1,0 +1,107 @@
+Terms of Service
+
+Media Platform for Digital Artists
+
+Last Updated: 3/8/2026
+
+1. Acceptance of Terms
+    By creating an account or using this platform, you agree to comply with and be legally bound by these Terms of Service. If you do not agree with these terms, you must not use the platform.
+
+2. Description of the Service
+    This platform provides a digital space where users can:
+        Create an account
+        Upload and share digital artworks
+         View artworks from other artists
+         Like and comment on artworks
+         Maintain a personal artist profile
+     The platform reserves the right to modify, suspend, or discontinue features at any time.
+
+3. User Accounts
+    To access certain features, users must create an account.
+    Users agree to:
+        Provide accurate and complete information during registration
+        Maintain the confidentiality of their login credentials
+        Be responsible for all activities that occur under their account
+    The platform may suspend or terminate accounts that violate these Terms.
+
+4. User Content and Ownership
+    Artists retain full ownership and intellectual property rights to the artworks they upload.
+    By uploading content, the user grants the platform a non-exclusive, worldwide, royalty-free license to:
+        Display
+        Store
+        Reproduce
+    the content solely for the purpose of operating and promoting the platform.
+    Users must ensure that uploaded content:
+        Does not infringe intellectual property rights
+        Does not contain illegal, harmful, or abusive material
+        Does not violate applicable laws
+
+5. Acceptable Use
+    Users agree not to:
+        Upload copyrighted material without permission
+        Post offensive, abusive, or unlawful content
+        Attempt to hack, disrupt, or exploit the platform
+        Use the platform for fraudulent or malicious activities
+    Violations may result in content removal or account suspension.
+
+6. Data Privacy and Protection
+    6.1 Compliance with Data Privacy Laws
+        The platform complies with:
+            General Data Protection Regulation (GDPR)
+            Republic Act No. 10173 (Data Privacy Act of 2012) of the Philippines
+            Personal data is processed lawfully, fairly, and transparently.
+
+    6.2 Data Collected
+        The platform may collect the following information:
+            Name or username
+            Email address
+            Password (securely encrypted)
+            Profile information
+            Uploaded artworks and comments
+            Usage and interaction data
+
+    6.3 Purpose of Data Processing
+        Personal data is used for:
+            Account creation and authentication
+            Providing platform functionality
+            Displaying user profiles and artworks
+            Improving the service and security
+            Data will not be sold to third parties.
+
+    6.4 User Rights
+        Under GDPR and the Data Privacy Act, users have the right to:
+            Access their personal data
+            Request correction of inaccurate data
+            Request deletion of their data
+            Withdraw consent to data processing
+            Request a copy of their stored data
+            Requests may be submitted through the platform's contact channels.
+
+    6.5 Data Security
+        The platform implements reasonable technical and organizational measures to protect personal data from:
+            Unauthorized access
+            Data loss
+            Misuse or disclosure
+            However, no online system can guarantee absolute security.
+
+7. Content Moderation
+    The platform reserves the right to:
+        Remove content that violates these Terms
+        Suspend or terminate accounts engaged in harmful activities
+
+8. Limitation of Liability
+    The platform is provided “as is” without warranties of any kind.
+    The platform is not liable for:
+        Loss of user content
+        Service interruptions
+        Unauthorized access caused by external factors
+
+9. Termination
+    Users may stop using the platform at any time.
+    The platform may suspend or terminate accounts that violate these Terms or applicable laws.
+
+10. Changes to the Terms
+    The platform may update these Terms of Service periodically. Continued use of the platform after changes constitutes acceptance of the updated Terms.
+
+11. Governing Law
+    These Terms shall be governed by the laws of the Republic of the Philippines, including the Data Privacy Act of 2012 (RA 10173).

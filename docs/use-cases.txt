@@ -1,0 +1,99 @@
+1. User Registration
+
+Actor: Visitor
+Description: Allows a new user to create an account on the platform.
+Preconditions: User is not logged in.
+Main Flow:
+    User opens the registration page.
+    User enters username, email, and password.
+    User submits the form.
+    System validates the information.
+    System creates the user account.
+    User is redirected to the dashboard.
+Postconditions: A new user account is created.
+
+2. User Login
+
+Actor: Registered User
+Description: Allows a registered user to access their account.
+Preconditions: User already has an account.
+Main Flow:
+    User opens the login page.
+    User enters email/username and password.
+    User submits login form.
+    System verifies credentials.
+    System logs the user into the platform.
+Postconditions: User gains access to their account.
+
+3. Upload Artwork
+
+Actor: Digital Artist
+Description: Allows artists to upload their digital artwork to the platform.
+Preconditions: User is logged in.
+Main Flow:
+    Artist clicks Upload Artwork.
+    Artist selects an image file.
+    Artist enters artwork title and description.
+    Artist submits the upload.
+    System stores the artwork.
+    Artwork appears on the artist's profile.
+Postconditions: Artwork is successfully uploaded and visible.
+
+4. View Artwork Feed
+
+Actor: User / Visitor
+Description: Allows users to browse artworks uploaded by artists.
+Preconditions: None.
+Main Flow:
+    User opens the platform homepage.
+    System displays a feed of artworks.
+    User scrolls to browse artworks.
+    User selects an artwork to view details.
+Postconditions: User can see artworks and their information.
+
+5. View Artist Profile
+
+Actor: User / Visitor
+Description: Allows users to view an artist's profile and artworks.
+Preconditions: Artist account exists.
+Main Flow:
+    User clicks an artist's name.
+    System opens the artist profile page.
+    System displays the artist's uploaded artworks.
+Postconditions: User can see all artworks from that artist.
+
+6. Like Artwork
+
+Actor: Logged-in User
+Description: Allows users to like artworks.
+Preconditions: User is logged in.
+Main Flow:
+    User opens an artwork.
+    User clicks the Like button.
+    System records the like.    
+    Like count updates.
+Postconditions: Artwork like count increases.
+
+7. Comment on Artwork
+
+Actor: Logged-in User
+Description: Allows users to leave comments on artworks.
+Preconditions: User is logged in.
+Main Flow:
+    User opens an artwork page.
+    User writes a comment.
+    User submits the comment.
+    System stores and displays the comment.
+Postconditions: Comment appears under the artwork.
+
+8. Edit Profile
+
+Actor: Artist / User
+Description: Allows users to update their profile information.
+Preconditions: User is logged in.
+Main Flow:
+    User opens profile settings.
+    User edits profile details (bio, profile picture, etc.).
+    User saves changes.
+    System updates the profile.
+Postconditions: Profile information is updated.
