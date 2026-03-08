@@ -1,0 +1,111 @@
+Privacy Policy
+
+Media Platform for Digital Artists
+
+Last Updated: 3/8/2026
+
+1. Introduction
+    This Privacy Policy explains how the Media Platform for Digital Artists (“the Platform”, “we”, “us”, or “our”) collects, uses, processes, and protects personal data of users.
+
+    We are committed to protecting user privacy and complying with applicable data protection laws, including:
+        Republic Act No. 10173 – Data Privacy Act of 2012 (Philippines)
+        General Data Protection Regulation (GDPR) for users located in the European Economic Area (EEA)
+
+    By using the Platform, you consent to the collection and use of information in accordance with this Privacy Policy.
+
+2. Personal Data We Collect
+    We may collect the following categories of personal data:
+    2.1 Account Information
+        Username
+        Email address
+        Password (stored in encrypted form)
+
+    2.2 Profile Information
+        Profile picture
+        Artist bio
+        Other information voluntarily provided by the user
+
+    2.3 User Content
+        Uploaded artworks
+        Artwork titles and descriptions
+        Comments and interactions (likes, comments)
+
+    2.4 Usage Information
+        Device information
+        IP address
+        Log data and platform activity
+        Interaction data within the platform
+
+3. Purpose of Data Processing
+    We process personal data for the following purposes:
+        To create and manage user accounts
+        To enable uploading and displaying of artworks
+        To allow users to interact through likes and comments
+        To maintain user profiles
+        To improve platform functionality and user experience
+        To monitor and maintain system security
+
+    Data is processed only for legitimate and specified purposes consistent with GDPR and the Data Privacy Act.
+
+4. Legal Basis for Processing (GDPR)
+    Where GDPR applies, personal data is processed based on:
+        User consent (e.g., account registration)
+        Performance of a contract (providing platform services)
+        Legitimate interests (platform security and service improvement)
+        Legal obligations, where required
+
+5. Data Sharing and Disclosure
+    We do not sell or rent personal data to third parties.
+
+    Personal data may only be shared in the following circumstances:
+        With service providers necessary for operating the platform (e.g., hosting services)
+        When required by law or government authorities
+        To protect the rights, security, or property of the platform or its users
+
+    Any third-party service providers are required to comply with applicable data protection laws.
+
+6. Data Retention
+    Personal data will be retained only for as long as necessary to:
+        Provide the platform services
+        Comply with legal obligations
+        Resolve disputes or enforce policies
+
+    Users may request deletion of their data as described below.
+
+7. User Rights
+    In accordance with the GDPR and the Data Privacy Act of 2012, users have the following rights:
+        Right to Access – Request access to personal data held about them
+        Right to Rectification – Request correction of inaccurate data
+        Right to Erasure – Request deletion of personal data
+        Right to Object – Object to certain forms of data processing
+        Right to Data Portability – Request a copy of their personal data
+        Right to Withdraw Consent – Withdraw previously given consent at any time
+
+    Requests may be submitted through the platform’s contact or support channels.
+
+8. Data Security
+    We implement reasonable technical and organizational security measures to protect personal data from:
+        Unauthorized access
+        Data breaches
+        Alteration or destruction of data
+
+    However, no online platform can guarantee complete security of transmitted information.
+
+9. Cookies and Tracking
+    The platform may use cookies or similar technologies to:
+        Maintain login sessions
+        Improve user experience
+        Analyze platform usage
+
+    Users may disable cookies through their browser settings, although some features may not function properly.
+
+10. Children’s Privacy
+    The platform is not intended for individuals under the age of 13 (or the applicable minimum age required by law). We do not knowingly collect personal data from children without parental consent.
+
+11. Changes to this Privacy Policy
+    We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.
+
+    Continued use of the platform constitutes acceptance of the updated policy.
+
+12. Contact Information
+    For privacy concerns, data requests, or questions regarding this Privacy Policy, users may contact the platform administrators through the official support or contact page.
