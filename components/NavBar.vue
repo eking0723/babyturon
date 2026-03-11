@@ -4,7 +4,7 @@
  <nav class="bt-nav-left">
  <a href="/" class="bt-nav-home">
  <img src="/logo.png" width=20 height=20 class="bt-nav-logo">
- <span>Bleedingheart</span>
+ <span>BabyTuron</span>
  </a>
  </nav>
  <nav class="bt-nav-right">
