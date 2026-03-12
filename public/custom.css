@@ -68,5 +68,21 @@ color: #6A7E3F;
 background-color: rgba(0, 0, 0, 0.1);
 }
 
-/* main contents */
+/* main content */
+
 /* copyright */
+.bt-footer-area {
+width: 100%;
+padding: 10px 0;
+font-size: 0.8em;
+text-align: center;
+color: #666;
+}
+.bt-footer-links a {
+font-weight: bold;
+text-decoration: none;
+color: #666;
+}
+.bt-footer-copyright {
+margin-top: 5px;
+}

@@ -4,7 +4,7 @@
  <NavBar />
  <div id="btMain" class="bt-main"></div>
  <!-- <Cookies /> -->
- <!-- <Copyright /> -->
+ <Copyright />
  </client-only>
 </template>
 <script setup lang="ts">
