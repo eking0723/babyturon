@@ -3,7 +3,7 @@
  <client-only>
  <NavBar />
  <div id="btMain" class="bt-main"></div>
- <!-- <Cookies /> -->
+ <Cookies />
  <Copyright />
  </client-only>
 </template>
